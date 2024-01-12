@@ -1,2 +1,2 @@
 # peerproject
-# This is a python notebook excercise 
+# This is a jupyter notebook excercise 
